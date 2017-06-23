@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `retail` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=11 ;
 
 --
--- Dumping data for table`supermarket`
+-- Dumping data for table`retail`
 --
 
 INSERT INTO `retail` (`id`, `title`, `type`, `description`, `height`, `width`, `price`, `rating`) VALUES
